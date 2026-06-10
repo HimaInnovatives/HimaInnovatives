@@ -1,11 +1,18 @@
-## Hi there 👋
-
-<!--<h1 align="center">Hi 👋, I'm Y. Himavarshini</h1>
+<h1 align="center">Hi 👋, I'm Y. Himavarshini</h1>
 <h3 align="center">🎓 ECE Graduate 2026 | 💻 Aspiring Java Full Stack Developer | 📍 Andhra Pradesh, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A56A0&center=true&vCenter=true&width=600&lines=ECE+Graduate+Transitioning+to+Java+Dev;Core+Java+%7C+OOP+%7C+Collections+%7C+Git;Learning+Spring+Boot+%26+React;Open+to+Internships+%26+Job+Opportunities!" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/🟢 Open to Work-Internship & Java Developer roles-brightgreen?style=for-the-badge"/>
+  </a>
+</p>
+
+> 💼 **I am actively looking for Internship and Entry-Level Java Developer opportunities!**
+> If you like my work, feel free to reach out at **yaleruhimavarshini09@gmail.com**
 
 ---
 
@@ -124,16 +131,3 @@
 </p>
 
 <p align="center">⭐ If you like my projects, consider giving them a star! ⭐</p>
-**HimaInnovatives/HimaInnovatives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
