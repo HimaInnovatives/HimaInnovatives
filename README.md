@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Y. Himavarshini</h1>
-<h3 align="center">🎓 ECE Graduate 2026 | 💻 Aspiring Java Full Stack Developer | 📍 Andhra Pradesh, India</h3>
+<h3 align="center">🎓 ECE Graduate 2026 | 💻 Aspiring Java Full Stack Developer | 📍 Bengaluru, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A56A0&center=true&vCenter=true&width=600&lines=ECE+Graduate+Transitioning+to+Java+Dev;Core+Java+%7C+OOP+%7C+Collections+%7C+Git;Learning+Spring+Boot+%26+React;Open+to+Internships+%26+Job+Opportunities!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:yaleruhimavarshini09@gmail.com">
     <img src="https://img.shields.io/badge/🟢 Open to Work-Internship & Java Developer roles-brightgreen?style=for-the-badge"/>
   </a>
 </p>
