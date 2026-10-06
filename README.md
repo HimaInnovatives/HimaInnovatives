@@ -75,7 +75,19 @@
 
 ---
 
-### 3. 🔬 Hybrid Memory Design (Final Year Project)
+### 3. 💳 Midas Core – Financial Transaction Processing (JPMorgan Chase Virtual Experience)
+> Spring Boot backend that processes and validates financial transactions
+
+- ✅ Consumes transactions from **Kafka** and persists them using **Spring Data JPA**
+- ✅ Validates transactions and updates account balances
+- ✅ Integrates an external REST service using **RestTemplate**
+- ✅ Exposes a **REST endpoint** to query account balances
+- 🛠️ Built using **Java, Spring Boot, Kafka, Spring Data JPA, Maven**
+- 🔗 [View on GitHub](https://github.com/HimaInnovatives/forage-midas)
+
+---
+
+### 4. 🔬 Hybrid Memory Design (Final Year Project)
 > Hardware project — Design of Hybrid Memory Using ECC, EDC & BIST
 
 - ✅ Implemented **ECC (Hamming SECDED)** for single-bit error correction
